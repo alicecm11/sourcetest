@@ -1,1 +1,12 @@
-// I don't want Scott's stuff 
+//Object for commit 
+
+//create conflict
+
+//Scott Was Here!
+
+//Look At My Horse My Horse Is Amazing
+
+//Everyone loves magical trevor!
+
+
+//diff 
