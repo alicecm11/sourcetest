@@ -1,5 +1,2 @@
-//Object for commit 
+//NO
 
-//create conflict
-
-//Scott Was Here!
