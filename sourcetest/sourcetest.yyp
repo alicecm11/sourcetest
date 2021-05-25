@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
     {"id":{"name":"Note2","path":"notes/Note2/Note2.yy",},"order":1,},
+    {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},"order":0,},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
